@@ -108,6 +108,18 @@ const projects = [
     image: "/curve_img.png",
   },
   {
+    title: "Amsterdam Funda Home-Search Agent",
+    summary: "A real estate scraping AI Agent for the Amsterdam housing market.",
+    href: "https://github.com/josebbk/nl-housing-agent",
+    image: "/funda_img.png",
+  },
+  {
+    title: "Telegram Bot Username Sales",
+    summary: "A monorepo containing the Telegram Bot and Web Management System for the Telegram Username Sales platform.",
+    href: "https://github.com/arashid02-n/telegram-bot-username-sales",
+    image: "/telegramusernamesales_img.png",
+  },
+  {
     title: "Space Invaders Game",
     summary: "A polished arcade build with responsive controls, scoring, and replay-friendly pacing.",
     href: "https://github.com/josebbk/Space-Invaders-PyGame",
